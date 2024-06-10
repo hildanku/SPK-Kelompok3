@@ -1,0 +1,21 @@
+idmakanan,nama,kalori,lemak(g),vegan,riwayat penyakit,rasa,usia
+1,Nasi Goreng,360,12.5,tidak,Diabetes,pedas,semua usia
+2,Mie Ayam,350,10,tidak,Hipertensi,gurih,semua usia
+3,Martabak Manis,400,15,tidak,Penyakit Jantung Koroner,manis,semua usia
+4,Bubur Ayam,250,5,tidak,Kolesterol Tinggi,gurih,semua usia
+5,Ketoprak,200,5,tidak,Asam Urat,gurih,semua usia
+6,Pukis,200,5,tidak,Maag (Dispepsia),manis,semua usia
+7,Cilok,150,5,tidak,Intoleransi Gluten,gurih,semua usia
+8,Batagor,200,10,tidak,Alergi Kacang,gurih,semua usia
+9,Pisang Goreng,200,10,tidak,Sembelit,manis,semua usia
+10,Gorengan,200,10,tidak,Diare,gurih,semua usia
+11,Es Cendol,150,5,tidak,Radang Lambung,manis,semua usia
+12,Es Teler,200,5,tidak,Penyakit Ginjal,manis,semua usia
+13,Es Campur,200,5,tidak,Kanker,manis,semua usia
+14,Rujak Buah,150,5,tidak,Anemia,asam,semua usia
+15,Siomay,200,10,tidak,Osteoporosis,gurih,semua usia
+16,Salad Sayur,100,1,vegan,Diabetes,gurih,semua usia
+17,Sup Sayur,150,2,vegan,Hipertensi,gurih,semua usia
+18,Smoothie Buah,200,5,vegan,Penyakit Jantung Koroner,manis,semua usia
+19,Nasi Putih,200,0.5,vegan,Kolesterol Tinggi,gurih,semua usia
+20,Tempe Goreng,150,10,vegan,Asam Urat,gurih,semua usia
